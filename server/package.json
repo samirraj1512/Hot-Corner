@@ -1,0 +1,38 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "node server.js",
+    "test:watch-together": "node watchTogether/tests/verifyWatchTogether.mjs",
+    "test:admin": "node tests/verifyAdmin.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1099.0",
+    "@aws-sdk/s3-request-presigner": "^3.1099.0",
+    "@clerk/express": "^1.7.2",
+    "@socket.io/redis-adapter": "^8.3.0",
+    "axios": "^1.10.0",
+    "cloudinary": "^2.7.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "inngest": "^4.13.0",
+    "mongoose": "^8.16.1",
+    "nodemailer": "^7.0.4",
+    "redis": "^4.7.1",
+    "socket.io": "^4.8.3",
+    "stripe": "^18.2.1",
+    "svix": "^1.68.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "socket.io-client": "^4.8.3"
+  }
+}
