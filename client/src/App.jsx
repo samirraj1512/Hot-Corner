@@ -19,6 +19,7 @@ import ListUsers from './pages/admin/ListUsers'
 import WatchTogetherAdmin from './pages/admin/WatchTogether'
 import { useAppContext } from './context/AppContextCore'
 import { SignIn } from '@clerk/clerk-react'
+
 import Loading from './components/Loading.jsx'
 import Recommendation from './pages/Theaters.jsx'
 import WatchTogetherPage from './features/watchTogether/WatchTogetherPage.jsx'
