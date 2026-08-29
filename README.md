@@ -3,7 +3,7 @@
 A production-ready movie ticket booking web application built with the **MERN stack**, featuring separate admin and user interfaces, real-time seat booking, ML-based recommendations, and automated email notifications.
 
 🔗 **Live Demo:** [https://hot-corner.vercel.app/](https://hot-corner.vercel.app/)
-📁 **GitHub:** [https://github.com/Chinmay-biswas/Hot-Corner](https://github.com/Chinmay-biswas/Hot-Corner)
+📁 **GitHub:** [https://github.com/samirraj1512/Hot-Corner](https://github.com/samirraj1512/Hot-Corner)
 
 ---
 
@@ -63,7 +63,7 @@ Built a **content-based recommendation system** using:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Chinmay-biswas/Hot-Corner.git
+git clone https://github.com/samirraj1512/Hot-Corner.git
 cd Hot-Corner
 ```
 
@@ -139,10 +139,9 @@ Hot-Corner/
 
 ## 🙌 Author
 
-**Chinmay Biswas**
-- GitHub: [@Chinmay-biswas](https://github.com/Chinmay-biswas)
-- LinkedIn: [chinmay-biswas-a8098b298](https://www.linkedin.com/in/chinmay-biswas-a8098b298/)
-- Portfolio: [portfoliocjstudio-bw8n.vercel.app](https://portfoliocjstudio-bw8n.vercel.app/)
+**Samir Raj**
+- GitHub: [@Samir-Raj](https://github.com/samirraj1512)
+- LinkedIn: [samirraj1512](https://www.linkedin.com/in/samir1512/)
 
 ---
 
