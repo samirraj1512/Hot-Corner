@@ -22,7 +22,7 @@ const Footer = () => {
                     <div>
                         <h2 className="font-semibold mb-5">Company</h2>
                         <ul className="text-sm space-y-2">
-                            <li><a href="https://hot-corner.vercel.app/">Home</a></li>
+                            <li><a href="https://hot-corner-beta.vercel.app/">Home</a></li>
                             <li><a href="https://portfolio-samir-ochre.vercel.app/">About us</a></li>
                             <li><a href="https://portfolio-samir-ochre.vercel.app/">Contact us</a></li>
                             
