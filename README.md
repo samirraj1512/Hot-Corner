@@ -2,7 +2,7 @@
 
 A production-ready movie ticket booking web application built with the **MERN stack**, featuring separate admin and user interfaces, real-time seat booking, ML-based recommendations, and automated email notifications.
 
-🔗 **Live Demo:** [[https://hot-corner.vercel.app/](https://hot-corner.vercel.app/](https://hot-corner-beta.vercel.app/))
+🔗 **Live Demo:** [https://hot-corner.vercel.app/](https://hot-corner-beta.vercel.app/)
 📁 **GitHub:** [https://github.com/samirraj1512/Hot-Corner](https://github.com/samirraj1512/Hot-Corner)
 
 ---
